@@ -106,4 +106,13 @@ error, figured I'd mention it as it's only come up in discord chats, Graven and 
 
 ---
 
+Bug: Wait animation apparently causes the FOV lock bug
+
+Click Up Link: https://app.clickup.com/t/862je03je
+
+Severity: Medium-High
+
+Fix: Disabling the wait animation (so it stops forcing camera switch should work
+
+Other Info: Have had additional reports (just in discord) that the poison weapon animation just does a weird idle pose instead of animating any actual posion on the weapon, so it might be worth just yeeting this mod entirely given the issues we've had with it? seems a bit superfluous if we just have to disable everything in it to stop it causing issues.
 
