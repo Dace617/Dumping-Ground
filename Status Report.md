@@ -13,10 +13,12 @@ A general overview of the large issues that may/may not be related to several bu
 - Fix up load order using Hajo and I's fixed loadorder.txt on reminders [Clickup](https://app.clickup.com/t/860q90b69)
 - Add my fix for the bodies of various NPCs being naked when unclothed, linked in the [Uthgerd Bug Report](https://app.clickup.com/t/863g428f9)
 - Add in all the fixed bugs in the Fixed column (duh)
+- most notably is the Economy Overhaul perk fix by Hajo, if you only add one thing from the fixed column it should probably be this, other than the load order fixes.
 - Update Slow your Roll ini with fixed Misc objectives line linked [here](https://app.clickup.com/t/860qcfjr2)
 - add the various patches from the Patches reminders section. they fix quite a few bugs/issues.
 - Hajo has a race patch fix in the Fixed bug section that should fix a lot of issues.
 - Poison Spray CTDs, Helgen Reborn CTDs(This one is likely Load order related), and Winking Skeever CTDs are the major crashes we have reported/know about that I can remember.
+- There's a reasonably large issue with 
 - I've listed out the largest bugs here with fine details, short of Animation issues (which we didn't get a lot of info about) thses seem to be the largest issues.
 - The rest of the bugs not mnentioned are things like various floating NPCs, bad textures etc. that we can fix individually with patches, if you want finer details I can edit this and add them, I'll just sit down and patch what I can after I get this to you.
 
