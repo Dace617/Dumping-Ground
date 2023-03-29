@@ -12,6 +12,7 @@ A general overview of the large issues that may/may not be related to several bu
 
 - Fix up load order using Hajo and I's fixed loadorder.txt on reminders [Clickup](https://app.clickup.com/t/860q90b69)
 - Add my fix for the bodies of various NPCs being naked when unclothed, linked in the [Uthgerd Bug Report](https://app.clickup.com/t/863g428f9)
+- Unsure if we want to think about other changes to the main profile, it seems to be hitting people pretty hard even with good systems with stuttering etc. might be worth dropping some of the textures/looking at the LODs again or something so we can smooth that out a bit for the regular profile.
 - Add in all the fixed bugs in the Fixed column (duh)
 - most notably is the Economy Overhaul perk fix by Hajo, if you only add one thing from the fixed column it should probably be this, other than the load order fixes.
 - Update Slow your Roll ini with fixed Misc objectives line linked [here](https://app.clickup.com/t/860qcfjr2)
